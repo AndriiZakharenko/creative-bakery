@@ -10,4 +10,4 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/layout_creativeBaker/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/layout_creativeBakery/)

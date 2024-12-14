@@ -1,6 +1,8 @@
 # Creative Bakery
 
 - HTML, CSS (SCSS), JS
+- BEM
+- Adaptive
 
 ## Demo Links
 
